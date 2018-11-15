@@ -1,0 +1,19 @@
+{
+  "name": "route-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Holman <holman.jx@protonmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.3.0",
+    "async": "^2.6.1",
+    "google-protobuf": "^3.6.1",
+    "grpc": "^1.16.0",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0"
+  }
+}
